@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAZyc7bLDflWPsvTrffeaLFV04atSz-dhg',
-    appId: '1:152061903724:web:43a5af3ada23fb4dc4a949',
-    messagingSenderId: '152061903724',
-    projectId: 'create-movie-app',
-    authDomain: 'create-movie-app.firebaseapp.com',
-    storageBucket: 'create-movie-app.appspot.com',
-    measurementId: 'G-5J96T10KL0',
+    apiKey: 'AIzaSyA62JkghEq2O-hWtuFdb-ly_dwTcSDXxUM',
+    appId: '1:176927756609:web:683a859c0525d82bd651c0',
+    messagingSenderId: '176927756609',
+    projectId: 'create-movie-44805',
+    authDomain: 'create-movie-44805.firebaseapp.com',
+    storageBucket: 'create-movie-44805.appspot.com',
+    measurementId: 'G-6V6LT94SRQ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCjn3_r8d_4ky1Ave0_dTYQumzt_uKh4JI',
-    appId: '1:152061903724:android:a91e82c0ec7a75c8c4a949',
-    messagingSenderId: '152061903724',
-    projectId: 'create-movie-app',
-    storageBucket: 'create-movie-app.appspot.com',
+    apiKey: 'AIzaSyC79j0w2q7APgTtq5knVUzR3pyL9wxmqUU',
+    appId: '1:176927756609:android:22bd180a87d25469d651c0',
+    messagingSenderId: '176927756609',
+    projectId: 'create-movie-44805',
+    storageBucket: 'create-movie-44805.appspot.com',
   );
 }

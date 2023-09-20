@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../student_app"
+		},
+		{
+			"path": "../../../../Movie_app_use_riverpod"
+		}
+	],
+	"settings": {}
+}

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "152061903724",
-    "project_id": "create-movie-app",
-    "storage_bucket": "create-movie-app.appspot.com"
+    "project_number": "549190588698",
+    "project_id": "create-movies-923e1",
+    "storage_bucket": "create-movies-923e1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:152061903724:android:a91e82c0ec7a75c8c4a949",
+        "mobilesdk_app_id": "1:549190588698:android:2be12b7f182af78d79b4a3",
         "android_client_info": {
           "package_name": "com.example.flutter_application_1"
         }
       },
       "oauth_client": [
         {
-          "client_id": "152061903724-7bkmtsa0j8d3llgbjl3s2p93hh9nl67j.apps.googleusercontent.com",
+          "client_id": "549190588698-8t9o98ftpfmi1gipu0c359nha5r3udb7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCjn3_r8d_4ky1Ave0_dTYQumzt_uKh4JI"
+          "current_key": "AIzaSyC79j0w2q7APgTtq5knVUzR3pyL9wxmqUU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "152061903724-7bkmtsa0j8d3llgbjl3s2p93hh9nl67j.apps.googleusercontent.com",
+              "client_id": "549190588698-8t9o98ftpfmi1gipu0c359nha5r3udb7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
