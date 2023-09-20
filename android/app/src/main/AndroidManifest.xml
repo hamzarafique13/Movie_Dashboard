@@ -1,7 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.flutter_application_1">
    <application
         android:label="flutter_application_1"
+=======
+    package="com.example.movie_app_use_riverpod">
+   <application
+        android:label="movie_app_use_riverpod"
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

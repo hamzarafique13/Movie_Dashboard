@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # flutter_application_1
+=======
+# movie_app_use_riverpod
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
 
 A new Flutter project.
 

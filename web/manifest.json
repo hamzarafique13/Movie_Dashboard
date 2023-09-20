@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "create_movies",
     "short_name": "create_movies",
+=======
+    "name": "movie_app_use_riverpod",
+    "short_name": "movie_app_use_riverpod",
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -8,12 +8,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:flutter_application_1/main.dart';
+=======
+import 'package:movie_app_use_riverpod/pages/main.dart';
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
+<<<<<<< HEAD
     await tester.pumpWidget(MyApp());
+=======
+    await tester.pumpWidget(const MyApp());
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "flutter_application_1.app"
+=======
+               BuildableName = "movie_app_use_riverpod.app"
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "flutter_application_1.app"
+=======
+            BuildableName = "movie_app_use_riverpod.app"
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -54,7 +62,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "flutter_application_1.app"
+=======
+            BuildableName = "movie_app_use_riverpod.app"
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -71,7 +83,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "flutter_application_1.app"
+=======
+            BuildableName = "movie_app_use_riverpod.app"
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

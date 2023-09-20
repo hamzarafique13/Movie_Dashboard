@@ -3,7 +3,10 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
   file_selector_linux
+=======
+>>>>>>> 21af5cb2937c363b540d080fb7f13d4d355f4349
   isar_flutter_libs
 )
 
