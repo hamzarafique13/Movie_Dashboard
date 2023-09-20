@@ -33,17 +33,18 @@ class MyApp extends StatelessWidget {
     //         print('something went wrong');
     //       }
     //       if (snapshot.connectionState == ConnectionState.done) ;
-    return const MaterialApp(
-        debugShowCheckedModeBanner: false, home: HomeScreen()
-        // StreamBuilder(
-        //     stream: auth.authStateChanges(),
-        //     builder: (context, usersnapshot) {
-        //       if (usersnapshot.hasData) {
-        //         return const HomeScreen();
-        //       } else {
-        //         return const Login();
-        //       }
-        //     }),
-        );
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      // home: HomeScreen()
+      home: StreamBuilder(
+          stream: auth.authStateChanges(),
+          builder: (context, usersnapshot) {
+            if (usersnapshot.hasData) {
+              return const HomeScreen();
+            } else {
+              return const Login();
+            }
+          }),
+    );
   }
 }
